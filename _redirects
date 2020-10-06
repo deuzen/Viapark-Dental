@@ -2,7 +2,7 @@
 /  /de/  302  Language=de
 
 # for root
-/*              /index.html     200
+# /*              /index.html     200
 ​
 # for the rest
-/en/*        /en/index.html     200
+# /en/*        /en/index.html     200
