@@ -3,3 +3,6 @@
 ​
 # for the rest
 /en/*        /en/index.html     200
+
+# Language
+/  /de/  302  Language=de
