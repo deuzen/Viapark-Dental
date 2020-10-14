@@ -4515,3 +4515,23 @@ dl.accordion.time-line:before {
 }
 
 /*-------- end footer Area -------------*/
+
+
+ #politica-datos p, #aviso-legal p{
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#politica-datos h6, #politica-datos h4 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#politica-datos ul {
+  margin-left: 30px;
+  list-style-type: disc;
+}
+
+#politica-datos ol {
+  margin-left: 30px;
+}
